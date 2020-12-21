@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>苹果🍎健康群</title>
+  
+  <subtitle>欢迎来到苹果健康群</subtitle>
+  <link href="https://www.appletuhao.tk/atom.xml" rel="self"/>
+  
+  <link href="https://www.appletuhao.tk/"/>
+  <updated>2020-12-17T02:11:44.690Z</updated>
+  <id>https://www.appletuhao.tk/</id>
+  
+  <author>
+    <name>苹果🍎健康群</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用爱思助手升级你的iOS 设备</title>
+    <link href="https://www.appletuhao.tk/%E5%88%A9%E7%94%A8%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B%E5%8D%87%E7%BA%A7%E4%BD%A0%E7%9A%84iOS-%E8%AE%BE%E5%A4%87/"/>
+    <id>https://www.appletuhao.tk/%E5%88%A9%E7%94%A8%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B%E5%8D%87%E7%BA%A7%E4%BD%A0%E7%9A%84iOS-%E8%AE%BE%E5%A4%87/</id>
+    <published>2020-12-13T03:15:29.000Z</published>
+    <updated>2020-12-17T02:11:44.690Z</updated>
+    
+    <content type="html"><![CDATA[<p>相信不少人都遇过一些囧境，比如使用32GB/64GB的iPhone/iPad 设备，发现新的iOS版本要OTA升级时，被提示容量不足无法下载.<br>此时，我们可以使用<a href="https://www.i4.cn/">爱思助手</a> 进行升级！</p><a id="more"></a><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><ul><li>一台电脑</li><li>稳定/原装USB Lightning 数据线</li><li>网络连接</li></ul><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><ul><li>若因为没备份到而丢失数据，本站将不会负责任何责任，请知悉</li><li>若因为任何问题而导致手机刷机过程中/过程后无法使用，本站将不会负责任何责任，请知悉</li></ul><h2 id="刷机步骤"><a href="#刷机步骤" class="headerlink" title="刷机步骤"></a>刷机步骤</h2><h3 id="Step-1-下载爱思助手"><a href="#Step-1-下载爱思助手" class="headerlink" title="Step 1 : 下载爱思助手"></a>Step 1 : 下载爱思助手</h3><ul><li>点击 <a href="https://url.i4.cn/faIfqyaa">这里</a> 下载爱思助手 Windows 版本 / <a href="https://d-updater.i4.cn/i4mac/20201119/1/i4Tools_v1.10.018.dmg">这里</a> 下载爱思助手 Mac 版本.</li><li>根据提示进行安装</li><li>安装成功后根据提示安装iTunes 驱动</li></ul><h3 id="Step-2-信任此电脑"><a href="#Step-2-信任此电脑" class="headerlink" title="Step 2 : 信任此电脑"></a>Step 2 : 信任此电脑</h3><ul><li>将你的iOS 设备连接数据线到电脑，并且解锁你的iOS设备</li><li>当弹出以下对话框时，选择 Trust (信任) .<br><img src="https://i.imgur.com/vx6A5Tr.png" alt="Trust"></li><li>至此，你已经成功让你的iOS设备信任你这台电脑了.<h3 id="Step-3"><a href="#Step-3" class="headerlink" title="Step 3"></a>Step 3</h3></li></ul><h4 id="Step-3-1-开始下载对应的固件"><a href="#Step-3-1-开始下载对应的固件" class="headerlink" title="Step 3.1 : 开始下载对应的固件"></a>Step 3.1 : 开始下载对应的固件</h4><ul><li>连接成功后，首页会显示你的机型</li><li>点击 <code>刷机越狱</code><br><img src="https://i.imgur.com/Mqt9uUU.png" alt="FLashandJB"></li></ul><h4 id="Step-3-2-开始下载对应的固件"><a href="#Step-3-2-开始下载对应的固件" class="headerlink" title="Step 3.2 : 开始下载对应的固件"></a>Step 3.2 : 开始下载对应的固件</h4><ul><li>这里会显示所有目前苹果开放升级/降级的固件<br><img src="https://i.imgur.com/c5U6FDv.png" alt="FW"></li><li>若你还没有下载固件，请点击下载，耐心等待下载完成</li></ul><h4 id="Step-3-3-选择对应固件进行升级"><a href="#Step-3-3-选择对应固件进行升级" class="headerlink" title="Step 3.3 : 选择对应固件进行升级"></a>Step 3.3 : 选择对应固件进行升级</h4><ul><li>若是想要保留资料升级，请点击 <code>保留用户资料刷机</code>，若想完全清空，请点击 <code>常规快速刷机</code><br><img src="https://i.imgur.com/X5D2vtt.png" alt="Flash"><br>这里以保留资料为例，选择好后，请准备好该设备绑定的Apple ID 和密码.<br>确认无误后可以点击立即刷机！</li></ul><h3 id="Step-4"><a href="#Step-4" class="headerlink" title="Step 4"></a>Step 4</h3><h4 id="Step-4-1-升级固件"><a href="#Step-4-1-升级固件" class="headerlink" title="Step 4.1 : 升级固件"></a>Step 4.1 : 升级固件</h4><ul><li>注意！此处请保持USB数据线始终连接到电脑和手机，并且不可以断开！建议使用原装数据线和稳定的USB接口连接电脑和手机！</li><li>点击立即刷机后，会弹出如下对话框：<br><img src="https://i.imgur.com/7u14Ax5.png" alt="ConfirmImgur"></li><li>建议用户先备份数据，再进行刷机，不过我们跳过这个步骤，直接点击确认刷机即可！</li><li>若因为没备份到而丢失数据，本站将不会负责任何责任，请知悉</li></ul><h4 id="Step-4-2-升级固件"><a href="#Step-4-2-升级固件" class="headerlink" title="Step 4.2 : 升级固件"></a>Step 4.2 : 升级固件</h4><ul><li>进入刷机页面后，若您的手机开启查找iPhone，软件会弹出对话框提示准备Apple ID 和密码，否则无法激活！点击<code>是</code>继续<br><img src="https://i.imgur.com/qAHpF0Q.png" alt="FINDMYIPHONE"></li><li>接下来，手机会重启2-3次，期间请确保USB数据线始终连接到电脑和手机，并且不可以断开！</li></ul><h4 id="Step-4-3-升级固件"><a href="#Step-4-3-升级固件" class="headerlink" title="Step 4.3 : 升级固件"></a>Step 4.3 : 升级固件</h4><ul><li>点击是后会开始升级，会出现一个进度对话框，耐心等待直到刷机完成，耗时10分钟-1小时不等，视机型而定<br><img src="https://i.imgur.com/Q6v2mn1.png" alt="ProgressBar"></li></ul><h3 id="Step-5-升级完成"><a href="#Step-5-升级完成" class="headerlink" title="Step 5 : 升级完成"></a>Step 5 : 升级完成</h3><ul><li>耐心等待刷机完成后，软件会显示下图：<br><img src="https://i.imgur.com/eA7KrNP.png" alt="done"></li><li>至此，即为成功刷机，不过为了安全起见，请保持USB数据线连接，直到手机进入桌面为止才拔出USB</li><li>若因为任何问题而导致手机刷机过程中/过程后无法使用，本站将不会负责任何责任，请知悉</li></ul><h2 id="整合刷机教程文件"><a href="#整合刷机教程文件" class="headerlink" title="整合刷机教程文件"></a>整合刷机教程文件</h2><p>本站整合了上述步骤为一个教程PDF文件，有需要的用户可点击下方链接下载：<br><a href="/%E5%88%A9%E7%94%A8%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B%E5%8D%87%E7%BA%A7%E4%BD%A0%E7%9A%84iOS%E8%AE%BE%E5%A4%87.pdf">利用爱思助手升级你的iOS 设备</a></p><h2 id="保资料刷机-刷机后恢复数据"><a href="#保资料刷机-刷机后恢复数据" class="headerlink" title="保资料刷机 刷机后恢复数据"></a><code>保资料刷机</code> 刷机后恢复数据</h2><p>利用爱思<code>保资料刷机</code>模式刷机后，手机会重启进入恢复数据过程，以下步骤将帮助恢复数据！</p><h2 id="保资料刷机-刷机后恢复数据步骤"><a href="#保资料刷机-刷机后恢复数据步骤" class="headerlink" title="保资料刷机 刷机后恢复数据步骤"></a><code>保资料刷机</code> 刷机后恢复数据步骤</h2><h3 id="Step-1-等待出先白-黑苹果界面，并要求输入密码的界面"><a href="#Step-1-等待出先白-黑苹果界面，并要求输入密码的界面" class="headerlink" title="Step 1 : 等待出先白/黑苹果界面，并要求输入密码的界面"></a>Step 1 : 等待出先白/黑苹果界面，并要求输入密码的界面</h3><ul><li>爱思显示刷机成功后，会自动重启进入白/黑苹果界面</li><li>等待出现要求 Press home to upgrade / Swipe up to upgrade ，点击Home键或向上滑动以输入密码<br><img src="https://i.imgur.com/kT3jJLS.jpg?1" alt="PressHometoUpgrade"><br><img src="https://i.imgur.com/WEkopRH.jpg?1" alt="Passscode"><h3 id="Step-2-等待"><a href="#Step-2-等待" class="headerlink" title="Step 2: 等待"></a>Step 2: 等待</h3></li><li>接下来，会进入白/黑苹果界面，并且拥有进度条<br><img src="https://i.imgur.com/voM4gaF.jpg?1" alt="Resotre"><blockquote><p>别担心，这个只是在恢复数据！</p></blockquote><h3 id="Step-3-成功恢复数据"><a href="#Step-3-成功恢复数据" class="headerlink" title="Step 3 : 成功恢复数据"></a>Step 3 : 成功恢复数据</h3></li><li>若成功，进度条跑完后会直接进入桌面，就代表可以正常使用手机了！</li><li>若因为任何问题而导致手机刷机过程中/过程后无法使用，本站将不会负责任何责任，请知悉</li></ul><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;相信不少人都遇过一些囧境，比如使用32GB/64GB的iPhone/iPad 设备，发现新的iOS版本要OTA升级时，被提示容量不足无法下载.&lt;br&gt;此时，我们可以使用&lt;a href=&quot;https://www.i4.cn/&quot;&gt;爱思助手&lt;/a&gt; 进行升级！&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="iOS" scheme="https://www.appletuhao.tk/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="https://www.appletuhao.tk/tags/iPadOS/"/>
+    
+    <category term="爱思助手" scheme="https://www.appletuhao.tk/tags/%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B/"/>
+    
+    <category term="升级" scheme="https://www.appletuhao.tk/tags/%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="32GB" scheme="https://www.appletuhao.tk/tags/32GB/"/>
+    
+    <category term="64GB" scheme="https://www.appletuhao.tk/tags/64GB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全新搭载M1芯片的Mac产品正式在马来西亚开卖</title>
+    <link href="https://www.appletuhao.tk/%E5%85%A8%E6%96%B0%E6%90%AD%E8%BD%BDM1%E8%8A%AF%E7%89%87%E7%9A%84Mac%E4%BA%A7%E5%93%81%E6%AD%A3%E5%BC%8F%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%BC%80%E5%8D%96/"/>
+    <id>https://www.appletuhao.tk/%E5%85%A8%E6%96%B0%E6%90%AD%E8%BD%BDM1%E8%8A%AF%E7%89%87%E7%9A%84Mac%E4%BA%A7%E5%93%81%E6%AD%A3%E5%BC%8F%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%BC%80%E5%8D%96/</id>
+    <published>2020-12-10T05:11:57.000Z</published>
+    <updated>2020-12-14T04:58:09.428Z</updated>
+    
+    <content type="html"><![CDATA[<p>在不久前的发布会，Apple 率先推出基于ARM架构的自研芯片- M1 (Apple Silicone) , 并号称是”最快的芯片”，并且推出了一系列搭载M1 自研芯片的Mac 产品，包括 MacBook Air , MacBook Pro 和 Mac Mini.<br>而今天，Apple 也正式在马来西亚上架售卖这些产品了!</p><a id="more"></a><h2 id="产品"><a href="#产品" class="headerlink" title="产品"></a>产品</h2><p>此次上架售卖的新产品全线搭载自研M1 芯片：</p><ul><li><p>MacBook Air [2020] : <a href="https://www.apple.com/my/shop/buy-mac/macbook-air">苹果官网</a><br><img src="https://i.imgur.com/rQa7i7F.png" alt="air-photos"><br><img src="https://i.imgur.com/sRNlYKb.png" alt="air-spec"></p></li><li><p>MacBook Pro 13” [2020] : <a href="https://www.apple.com/my/shop/buy-mac/macbook-pro/13-inch">苹果官网</a><br><img src="https://i.imgur.com/wbQLK9T.png" alt="propic"><br><img src="https://i.imgur.com/F8pX3my.png" alt="prospec"></p></li><li><p>Mac Mini [2020] : <a href="https://www.apple.com/my/shop/buy-mac/mac-mini">苹果官网</a><br><img src="https://i.imgur.com/mFJFtec.png" alt="minipic"><br><img src="https://i.imgur.com/Um9nrbJ.png" alt="minispec"></p></li></ul><h2 id="售价"><a href="#售价" class="headerlink" title="售价"></a>售价</h2><p>此次商家售卖的新产品从 <strong>RM2999</strong> 起：</p><ul><li>MacBook Air [2020] : <a href="https://www.apple.com/my/shop/buy-mac/macbook-air">苹果官网</a><ul><li><strong>RM 4399</strong> 起</li></ul></li><li>MacBook Pro 13” [2020] : <a href="https://www.apple.com/my/shop/buy-mac/macbook-pro/13-inch">苹果官网</a><ul><li><strong>RM 5599</strong> 起</li></ul></li><li>Mac Mini [2020] : <a href="https://www.apple.com/my/shop/buy-mac/mac-mini">苹果官网</a><ul><li><strong>RM 2999</strong> 起</li></ul></li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>苹果这次一共推出了3款搭载自研M1芯片的Mac系列产品，小编个人认为，售价 <strong>RM 2999</strong> 起的 Mac Mini 非常值得购买，如果各位最近刚好需要换电脑，预算也够的话，可以考虑新款的Mac产品.<br>而且近日有媒体发现，部分Mac Mini 产自马来西亚，这无疑是一大喜讯.<br>虽然说基于ARM架构的芯片无法实现Bootcamp不过也因为ARM架构，因此Mac上也可以运行iOS的应用程序，瞬间让Mac系统的生态扩大了很大的层级.<br>最新的macOS Big Sur 上也完美兼容 Intel / ARM 双平台 ， 而且内置 <strong>Rosetta</strong> 编译器，可以让你在使用基于ARM架构的电脑时，运行x86应用程序，虽然说性能会因此损耗一点，不过相信苹果生态的实力，众多厂商应该也会愿意再次开发基于ARM架构的应用程序，或直接使用iOS版本的应用程序，在上面增加或修改功能，即可适配ARM架构的Mac.</p><p>资料来源： <strong><a href="https://www.apple.com/my/shop/buy-mac/">苹果官网</a></strong> <strong><a href="https://www.lowyat.net/2020/227275/mac-mini-m1-made-in-malaysia/">Lowyat.net</a></strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;在不久前的发布会，Apple 率先推出基于ARM架构的自研芯片- M1 (Apple Silicone) , 并号称是”最快的芯片”，并且推出了一系列搭载M1 自研芯片的Mac 产品，包括 MacBook Air , MacBook Pro 和 Mac Mini.&lt;br&gt;而今天，Apple 也正式在马来西亚上架售卖这些产品了!&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="M1" scheme="https://www.appletuhao.tk/tags/M1/"/>
+    
+    <category term="Apple Silicone" scheme="https://www.appletuhao.tk/tags/Apple-Silicone/"/>
+    
+    <category term="Mac" scheme="https://www.appletuhao.tk/tags/Mac/"/>
+    
+    <category term="Malaysia" scheme="https://www.appletuhao.tk/tags/Malaysia/"/>
+    
+    <category term="Apple MY" scheme="https://www.appletuhao.tk/tags/Apple-MY/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>无需在App Store下载免费APP时验证Touch ID / Face ID</title>
+    <link href="https://www.appletuhao.tk/%E6%97%A0%E9%9C%80%E5%9C%A8App-Store%E4%BD%BF%E7%94%A8Touch-ID-Face-ID-%E4%B8%8B%E8%BD%BD%E5%85%8D%E8%B4%B9APP/"/>
+    <id>https://www.appletuhao.tk/%E6%97%A0%E9%9C%80%E5%9C%A8App-Store%E4%BD%BF%E7%94%A8Touch-ID-Face-ID-%E4%B8%8B%E8%BD%BD%E5%85%8D%E8%B4%B9APP/</id>
+    <published>2020-12-08T12:27:30.000Z</published>
+    <updated>2020-12-14T04:56:57.399Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="无需在App-Store下载免费APP时验证Touch-ID-Face-ID"><a href="#无需在App-Store下载免费APP时验证Touch-ID-Face-ID" class="headerlink" title="无需在App Store下载免费APP时验证Touch ID / Face ID"></a>无需在App Store下载免费APP时验证Touch ID / Face ID</h2><p>相信各位都会有App Store 下载免费APP的时候都需要Touch ID / Face ID 的困扰吧.<br>今天，我们将会教大家如何无需在App Store下载免费APP时验证Touch ID / Face ID.</p><a id="more"></a><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ol><li>点击进入<code>Settings</code><br><img src="https://i.imgur.com/rhKZZaK.jpg" alt="Step1"></li><li>在 <code>Settings</code>里面，下拉找到<code> Touch ID / 面容ID与密码</code> .<br><img src="https://i.imgur.com/xWetz4X.jpg" alt="Step2"></li><li>点击并且输入密码.<br><img src="https://i.imgur.com/Nek67aK.jpg" alt="passcode"></li><li>输入密码后，找到 <code>将面容/Touch ID用于iTunes 与 App Store</code> 一栏，并关掉该选项.<br><img src="https://i.imgur.com/Bq6Z6vC.jpg" alt="step4"></li><li>退出<code>面容ID/Touch ID与密码</code>，返回<code>Settings</code> 的主页面.<br>接下来，向上滑，找到<code>屏幕使用时间</code> , 点击进入.<br><img src="https://imgur.com/wBaJnDw" alt="5"></li><li>点进去了后，在<code>使用时间数据表</code>的下方，找到<code>内容与隐私纺问限制</code>，点击进去.<br><img src="https://i.imgur.com/MTrmYxs.jpg" alt="6"></li><li>点进去<code>内容与隐私纺问限制</code>后，找到<code>iTunes 与App Store购买项目</code> , 点击进去.<br><img src="https://i.imgur.com/dpSn4Uu.jpg" alt="7"></li><li>找到<code>需要密码</code>一栏，选择 <code>不需要</code> ，即可解决.<br><img src="https://i.imgur.com/ImMH8UX.jpg" alt="8"></li></ol><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>以上的教程确实可以在你下载App Store内的免费APP时不会要求 Touch ID / 面容ID / 密码 的严正要求，不过 <strong>付费APP</strong>还是需要验证哟！</p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a></strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;无需在App-Store下载免费APP时验证Touch-ID-Face-ID&quot;&gt;&lt;a href=&quot;#无需在App-Store下载免费APP时验证Touch-ID-Face-ID&quot; class=&quot;headerlink&quot; title=&quot;无需在App Store下载免费APP时验证Touch ID / Face ID&quot;&gt;&lt;/a&gt;无需在App Store下载免费APP时验证Touch ID / Face ID&lt;/h2&gt;&lt;p&gt;相信各位都会有App Store 下载免费APP的时候都需要Touch ID / Face ID 的困扰吧.&lt;br&gt;今天，我们将会教大家如何无需在App Store下载免费APP时验证Touch ID / Face ID.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="App Store" scheme="https://www.appletuhao.tk/tags/App-Store/"/>
+    
+    <category term="Touch ID" scheme="https://www.appletuhao.tk/tags/Touch-ID/"/>
+    
+    <category term="Face ID" scheme="https://www.appletuhao.tk/tags/Face-ID/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>尝鲜iOS 14 Beta和 iPadOS 14 Beta 版本的方法</title>
+    <link href="https://www.appletuhao.tk/%E5%B0%9D%E9%B2%9CiOS%2014%20Beta%E5%92%8C%20iPadOS%2014%20Beta%20%E7%89%88%E6%9C%AC%E7%9A%84%E6%96%B9%E6%B3%95/"/>
+    <id>https://www.appletuhao.tk/%E5%B0%9D%E9%B2%9CiOS%2014%20Beta%E5%92%8C%20iPadOS%2014%20Beta%20%E7%89%88%E6%9C%AC%E7%9A%84%E6%96%B9%E6%B3%95/</id>
+    <published>2020-12-08T03:48:49.000Z</published>
+    <updated>2020-12-14T04:55:47.850Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="尝鲜iOS-amp-iPadOS-Beta-版本"><a href="#尝鲜iOS-amp-iPadOS-Beta-版本" class="headerlink" title="尝鲜iOS &amp; iPadOS Beta 版本"></a>尝鲜iOS &amp; iPadOS Beta 版本</h2><p>众所周知，iOS &amp; iPadOS 一路以来都拥有<strong>稳定版</strong>和<strong>Beta</strong> 两个版本，许多新功能都可以抢先在<strong>Beta</strong>版本上尝鲜.<br>接下来，我们将演示如何安装<strong>iOS 14 Beta &amp; iPadOS 14 Beta</strong> 版本.</p><a id="more"></a><h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><ol><li><p>使用<strong>Safari浏览器</strong>安装<strong>iOS 14 Beta &amp; iPadOS 14 Beta</strong> 描述文件, <a href="/iOS_iPadOS_14_Beta_Profile.mobileconfig">点击这里</a>下载.<br><img src="https://i.imgur.com/vY0n4NL.png" alt="Allow"></p><blockquote><p>打开后会弹出提示框，点击允许</p></blockquote></li><li><p>接下来，下载成功后，打开设置APP 并找到”已下载描述文件”<br>点击进去，找到: iOS 14 &amp; iPadOS 14 Beta Software Profile Beta Software Program<br>并点击安装.<br><img src="https://i.imgur.com/D6jZiZv.png" alt="Install"><br><img src="https://i.imgur.com/NOPeR5e.png" alt="Password"></p><blockquote><p>接下来，输入密码进行授权安装</p></blockquote></li><li><p>输入完成后，点击同意，并点击安装即可安装成功<br><img src="https://i.imgur.com/gR2mQaP.png" alt="Allow-to-install"><br><img src="https://i.imgur.com/zwOmmKA.png" alt="Allow-to-install2"></p></li><li><p>接下来，重启你的iPhone/iPad/iPod，并依次打开设置-通用-软件更新，应该就能看到iOS 14 Beta / iPadOS 14 Beta 的更新了！<br><img src="https://i.imgur.com/Q5hZaRk.jpg" alt="Beta-Update"></p></li></ol><h2 id="提醒"><a href="#提醒" class="headerlink" title="提醒"></a>提醒</h2><p>升级<strong>Beta</strong> 版本或造成设备不稳定运行/无法开机/数据丢失，请升级前一定一定要做好数据备份，若造成任何数据丢失和其他问题，本站恕不负责！</p><p>资料来源 ： <a href="https://www.theneptunemedia.eu.org/article/ios14/2/">The Neptune Media</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;尝鲜iOS-amp-iPadOS-Beta-版本&quot;&gt;&lt;a href=&quot;#尝鲜iOS-amp-iPadOS-Beta-版本&quot; class=&quot;headerlink&quot; title=&quot;尝鲜iOS &amp;amp; iPadOS Beta 版本&quot;&gt;&lt;/a&gt;尝鲜iOS &amp;amp; iPadOS Beta 版本&lt;/h2&gt;&lt;p&gt;众所周知，iOS &amp;amp; iPadOS 一路以来都拥有&lt;strong&gt;稳定版&lt;/strong&gt;和&lt;strong&gt;Beta&lt;/strong&gt; 两个版本，许多新功能都可以抢先在&lt;strong&gt;Beta&lt;/strong&gt;版本上尝鲜.&lt;br&gt;接下来，我们将演示如何安装&lt;strong&gt;iOS 14 Beta &amp;amp; iPadOS 14 Beta&lt;/strong&gt; 版本.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="iOS" scheme="https://www.appletuhao.tk/tags/iOS/"/>
+    
+    <category term="Beta" scheme="https://www.appletuhao.tk/tags/Beta/"/>
+    
+    <category term="iPadOS" scheme="https://www.appletuhao.tk/tags/iPadOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iPhone 12 Pro 3D扫描</title>
+    <link href="https://www.appletuhao.tk/iPhone-12-Pro-3D%E6%89%AB%E6%8F%8F/"/>
+    <id>https://www.appletuhao.tk/iPhone-12-Pro-3D%E6%89%AB%E6%8F%8F/</id>
+    <published>2020-12-07T08:57:29.000Z</published>
+    <updated>2020-12-14T05:00:06.349Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="3D-Scanner-App"><a href="#3D-Scanner-App" class="headerlink" title="3D Scanner App"></a>3D Scanner App</h2><p>众所周知，iPhone 12 Pro 系列首次搭载了LIDAR 激光扫描仪，是继苹果用在iPad Pro 后第二次在iOS设备上搭载LIDAR 激光扫描仪.<br>这个扫描仪能做什么呢?</p><a id="more"></a><p>LIDAR 激光扫描仪的到来 AR 领域带来了新的可能性，在摄影领域，它也能够透过准确的深度感测，呈现更真实的散景效果。而<code>3D Scanner App</code>则同样利用了该技术，为前述的机种带来 3D 扫描的功能。</p><h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><ul><li>顾名思义，这款 App 能够让你扫描各种静态物体并建立 3D 模型，小从一个杯子、大置一个房间都没有问题，且扫描没有任何的次数限制。扫描结果还能输出成各种格式，或是用于「讯息」App 来和其他人分享。</li></ul><h2 id="专业应用"><a href="#专业应用" class="headerlink" title="专业应用"></a>专业应用</h2><p>如果你对扫描的结果很满意，打算对它有进一步的应用，<code>3D Scanner App</code> 也支援输出至 <code>Blender、3ds Max、SketchUp </code> 等 3D 电脑绘图软体。</p><h2 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h2><p>除了欣赏你的扫描结果之外，App 也提供了虚拟量尺，能够让你轻松获悉物品的长、宽、深度资讯。</p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://i.imgur.com/8mzhWQk.jpg" alt="Imgur"><br><img src="https://i.imgur.com/ggBjztQ.jpg" alt="Imgur"><br><img src="https://i.imgur.com/YD9oO3R.jpg" alt="Imgur"><br><img src="https://i.imgur.com/5Ra72nB.jpg" alt="Imgur"></p><p>应用名称：3D Scanner App<br>应用类别：工具程式<br>下载链接： <a href="https://apps.apple.com/app/id1419913995">App Store</a></p><p>此文章只供大家参考,本文所有内容都是从各大科技网站里优质摘下,原文链接将附上！<br>来源：<a href="https://youtu.be/YizMalWigkI">Youtube</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;3D-Scanner-App&quot;&gt;&lt;a href=&quot;#3D-Scanner-App&quot; class=&quot;headerlink&quot; title=&quot;3D Scanner App&quot;&gt;&lt;/a&gt;3D Scanner App&lt;/h2&gt;&lt;p&gt;众所周知，iPhone 12 Pro 系列首次搭载了LIDAR 激光扫描仪，是继苹果用在iPad Pro 后第二次在iOS设备上搭载LIDAR 激光扫描仪.&lt;br&gt;这个扫描仪能做什么呢?&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="LIDAR" scheme="https://www.appletuhao.tk/tags/LIDAR/"/>
+    
+    <category term="3D 扫描" scheme="https://www.appletuhao.tk/tags/3D-%E6%89%AB%E6%8F%8F/"/>
+    
+    <category term="iPhone 12 Pro" scheme="https://www.appletuhao.tk/tags/iPhone-12-Pro/"/>
+    
+    <category term="iPhone 12 Pro Max" scheme="https://www.appletuhao.tk/tags/iPhone-12-Pro-Max/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WhatsApp 双平台转换资料</title>
+    <link href="https://www.appletuhao.tk/WhatsApp-%E5%8F%8C%E5%B9%B3%E5%8F%B0%E8%BD%AC%E6%8D%A2%E8%B5%84%E6%96%99/"/>
+    <id>https://www.appletuhao.tk/WhatsApp-%E5%8F%8C%E5%B9%B3%E5%8F%B0%E8%BD%AC%E6%8D%A2%E8%B5%84%E6%96%99/</id>
+    <published>2020-12-06T13:19:47.000Z</published>
+    <updated>2020-12-14T04:58:43.019Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="双平台WhatsApp资料数据转换"><a href="#双平台WhatsApp资料数据转换" class="headerlink" title="双平台WhatsApp资料数据转换"></a>双平台WhatsApp资料数据转换</h2><p>相信从Android 转入 iOS 的用户或者 iOS 转入 Android 用户对于WhatsApp资料备份这一点深有体会，由于服务提供商和系统操作层级不一样，Android 和 iOS 的 WhatsApp是不能互相转换的. 这也阻止了很多想要从原有的平台转入Android / iOS 的用户的意念.<br><strong>好在，救星来了</strong></p><a id="more"></a><h2 id="iTransor-for-WhatsApp"><a href="#iTransor-for-WhatsApp" class="headerlink" title="iTransor for WhatsApp"></a>iTransor for WhatsApp</h2><ul><li>此 App 可实现Android / iOS 的 WhatsApp资料转换</li><li>iTransor 官方宣称100% 成功</li></ul><h2 id="程序特点"><a href="#程序特点" class="headerlink" title="程序特点"></a>程序特点</h2><ul><li><p>包括文字、图像、影片</p><blockquote><p>转换工具能转换的资料除了文字讯息外，更可以将图像、影片进行转移。因此，即使你换手机也可完美地将 WhatsApp 的聊天纪录完整地「搬到新机」。</p></blockquote></li><li><p>免iCloud / Google Drive 直接高速备份 iPhone/Android WhatsApp</p><blockquote><p>不少人觉得 iCloud 储存空间不够用，其实 WhatsApp 占用了很多的空间，事实上不少人买 iCloud 储存空间的原因也是为 WhatsApp 备份。不过用iCloud 备份需要时间，每次备份／还原也花很长时间，而iTransor for WhatsApp 本身就可以直接对手机的WhatsApp 作备份，输出到本地储存空间，这样备份比iCloud 更快，还原速度也更快。另外，用户更可独立建立备份档。同样的，Android 用户也可以将 WhatsApp 备份到电脑而无需备份到 Google Drive，回复到设备也会更灵活，不受 OS 限制。</p></blockquote></li><li><p>快速恢复</p><blockquote><p>恢复方面，用户同样可透过软件进行，当中不用理会 OS 版本，只要透过 USB 连接线跟电话连接即可快速还原。你可以将 Android 装置的 WhatsApp 备份还原到 iPhone 上，也可以将 iPhone 的 WhatsApp 备份回复到 Android 装置上，也不受 iOS 和 Android 版本的限制。</p></blockquote></li></ul><h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><ol><li>先将两台装置连接到电脑，再将 Source 及 Destination 设好，例如 iPhone to Android，再按 Transfer。</li><li>程式会立即将一端的装置进行备份汇出，然后将资料还原到另一端的装置。</li><li>耐心等待即可完成</li></ol><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>WhatsApp 已成为很多人的资料库，朋友很多时也爱用它来传资料、照片、影片，所以换手机时总是不能 iPhone 转到 Android 或 Android 转到 iPhone。有了 iTransor for WhatsApp 后，问题终于可以解决。<br>软件名称：iTransor for WhatsApp<br>支援平台：Windows</p><p>下载链接 : <a href="https://www.imyfone.com/transfer-backup-restore-whatsapp">点我</a></p><p>此文章只供大家参考,本文所有内容都是从各大科技网站里优质摘下,原文链接将附上！<br>来源：<a href="https://9to5mac.com/2020/06/13/transfer-whatsapp-from-android-to-iphone-with-imyfone-itransor-for-whatsapp-10-off/">9to5mac</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;双平台WhatsApp资料数据转换&quot;&gt;&lt;a href=&quot;#双平台WhatsApp资料数据转换&quot; class=&quot;headerlink&quot; title=&quot;双平台WhatsApp资料数据转换&quot;&gt;&lt;/a&gt;双平台WhatsApp资料数据转换&lt;/h2&gt;&lt;p&gt;相信从Android 转入 iOS 的用户或者 iOS 转入 Android 用户对于WhatsApp资料备份这一点深有体会，由于服务提供商和系统操作层级不一样，Android 和 iOS 的 WhatsApp是不能互相转换的. 这也阻止了很多想要从原有的平台转入Android / iOS 的用户的意念.&lt;br&gt;&lt;strong&gt;好在，救星来了&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="iOS" scheme="https://www.appletuhao.tk/tags/iOS/"/>
+    
+    <category term="WhatsApp" scheme="https://www.appletuhao.tk/tags/WhatsApp/"/>
+    
+    <category term="Android" scheme="https://www.appletuhao.tk/tags/Android/"/>
+    
+    <category term="双平台" scheme="https://www.appletuhao.tk/tags/%E5%8F%8C%E5%B9%B3%E5%8F%B0/"/>
+    
+    <category term="iTransor" scheme="https://www.appletuhao.tk/tags/iTransor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iPhone 12 无线充电问题</title>
+    <link href="https://www.appletuhao.tk/iPhone-12-%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5%E9%97%AE%E9%A2%98/"/>
+    <id>https://www.appletuhao.tk/iPhone-12-%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5%E9%97%AE%E9%A2%98/</id>
+    <published>2020-12-06T10:48:24.000Z</published>
+    <updated>2020-12-14T04:59:37.614Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="无线充电问题"><a href="#无线充电问题" class="headerlink" title="无线充电问题"></a>无线充电问题</h2><p>之前就有许多用户报告说 iPhone 12 无线充电存在问题，第一天时可以正常使用无线充电，不过第二天就会停止工作，需要重启手机后，才可以使用，不过过一段时间仍然会出现停止运作的功能，必须重启来解决.</p><a id="more"></a><p>也有用户指出，一些通过 <strong>Qi 认证的无线充电器</strong>无法正常为iPhone 12充电.<br><img src="https://i.imgur.com/e9DSosL.jpg" alt="iPhone-12-Magsafe"></p><h2 id="官方回应"><a href="#官方回应" class="headerlink" title="官方回应"></a>官方回应</h2><p>对此，Apple 已经做出回应。他们承认<strong>无线充电确实存在问题</strong> , 目前他们正在跟进，后续会通过<strong>软件更新</strong>的方式来解决.<br>所以有遇到这些问题的小伙伴们，记得要紧盯Software Update哟！</p><p>资料来源 ： <a href="https://news.mydrivers.com/1/727/727897.htm?utm_source=technave">点我</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;无线充电问题&quot;&gt;&lt;a href=&quot;#无线充电问题&quot; class=&quot;headerlink&quot; title=&quot;无线充电问题&quot;&gt;&lt;/a&gt;无线充电问题&lt;/h2&gt;&lt;p&gt;之前就有许多用户报告说 iPhone 12 无线充电存在问题，第一天时可以正常使用无线充电，不过第二天就会停止工作，需要重启手机后，才可以使用，不过过一段时间仍然会出现停止运作的功能，必须重启来解决.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="无线充电" scheme="https://www.appletuhao.tk/tags/%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5/"/>
+    
+    <category term="异常" scheme="https://www.appletuhao.tk/tags/%E5%BC%82%E5%B8%B8/"/>
+    
+    <category term="故障" scheme="https://www.appletuhao.tk/tags/%E6%95%85%E9%9A%9C/"/>
+    
+    <category term="iPhone 12 系列" scheme="https://www.appletuhao.tk/tags/iPhone-12-%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="充电" scheme="https://www.appletuhao.tk/tags/%E5%85%85%E7%94%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iPhone 12 系列待机异常耗电</title>
+    <link href="https://www.appletuhao.tk/iPhone-12-%E7%B3%BB%E5%88%97%E5%BE%85%E6%9C%BA%E5%BC%82%E5%B8%B8%E8%80%97%E7%94%B5/"/>
+    <id>https://www.appletuhao.tk/iPhone-12-%E7%B3%BB%E5%88%97%E5%BE%85%E6%9C%BA%E5%BC%82%E5%B8%B8%E8%80%97%E7%94%B5/</id>
+    <published>2020-12-06T06:56:25.000Z</published>
+    <updated>2020-12-14T04:59:12.703Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="异常耗电：或iOS系统-几代故障"><a href="#异常耗电：或iOS系统-几代故障" class="headerlink" title="异常耗电：或iOS系统/几代故障"></a>异常耗电：或iOS系统/几代故障</h2><ul><li>据外媒 9to5Mac 报道，部分 iPhone 12 用户在使用手机时遇到了<strong>高耗电</strong>的问题，即使关闭 WiFi、5G 信号，甚至开启省电模式也是如此。</li><li>苹果于今年发布的 iPhone 12 缩减了电池容量，远小于目前的主流安卓手机，因此十分依赖 iOS 系统高效的电源管理，以及 A14 仿生芯片的性能 / 功耗比。<a id="more"></a></li><li>国外一名工程师用户上传的耗电图片显示，即使手机处于待机状态后台没有任何活动，手机也会均匀地耗电，相比此前的 iPhone 11 Pro 快很多。<br><img src="https://i.imgur.com/IKxzBRs.jpg" alt="iPhone12drain"><br><img src="https://i.imgur.com/etHHB6Q.jpg" alt="screenshotbattery"></li><li>根据外媒消息，国外论坛已经有 1000 多位用户报告了相同的问题，许多人的电量一夜间下降了 20%~40%。</li><li>一位用户表示，他的 iPhone 已经关闭了一切后台程序、蓝牙，但是依旧有这个问题。他已经联系过了苹果官方的支持人员，在运行了一系列诊断程序后，苹果表示硬件一切正常。</li><li>外媒 9to5mac 也遇到了同样的问题，在排除了一切软件和硬件问题后，外媒表示只有可能是 iOS 系统的问题。</li><li>此外，一位用户报告说，只要他的 iPhone 12 Pro 手机安装了 SIM 卡，他的手机电量会急剧下降，并且拔下它就停止了耗电。外媒 Forbes 判断，或许是基带芯片出了故障，但需要更多的样本进行确认。</li><li>截止到目前，苹果官方论坛显示有 1260 名 iPhone12 用户有着相同的问题。目前苹果官方暂时没有回复这个故障，希望此问题能够通过后续的 iOS 更新解决。<br><img src="https://i.imgur.com/9SaIUhd.jpg" alt="AppleForum"></li></ul><p>资料来源 ： <a href="https://9to5mac.com/2020/12/02/iphone-12-battery-draining-unexpectedly-fast/">9to5mac</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;异常耗电：或iOS系统-几代故障&quot;&gt;&lt;a href=&quot;#异常耗电：或iOS系统-几代故障&quot; class=&quot;headerlink&quot; title=&quot;异常耗电：或iOS系统/几代故障&quot;&gt;&lt;/a&gt;异常耗电：或iOS系统/几代故障&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;据外媒 9to5Mac 报道，部分 iPhone 12 用户在使用手机时遇到了&lt;strong&gt;高耗电&lt;/strong&gt;的问题，即使关闭 WiFi、5G 信号，甚至开启省电模式也是如此。&lt;/li&gt;
+&lt;li&gt;苹果于今年发布的 iPhone 12 缩减了电池容量，远小于目前的主流安卓手机，因此十分依赖 iOS 系统高效的电源管理，以及 A14 仿生芯片的性能 / 功耗比。</summary>
+    
+    
+    
+    
+    <category term="异常" scheme="https://www.appletuhao.tk/tags/%E5%BC%82%E5%B8%B8/"/>
+    
+    <category term="故障" scheme="https://www.appletuhao.tk/tags/%E6%95%85%E9%9A%9C/"/>
+    
+    <category term="iPhone 12 系列" scheme="https://www.appletuhao.tk/tags/iPhone-12-%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="耗电" scheme="https://www.appletuhao.tk/tags/%E8%80%97%E7%94%B5/"/>
+    
+    <category term="待机" scheme="https://www.appletuhao.tk/tags/%E5%BE%85%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iPhone 11 触控问题</title>
+    <link href="https://www.appletuhao.tk/iPhone-11-%E8%A7%A6%E6%8E%A7%E9%97%AE%E9%A2%98/"/>
+    <id>https://www.appletuhao.tk/iPhone-11-%E8%A7%A6%E6%8E%A7%E9%97%AE%E9%A2%98/</id>
+    <published>2020-12-05T16:00:00.000Z</published>
+    <updated>2020-12-14T05:00:24.067Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="触控问题"><a href="#触控问题" class="headerlink" title="触控问题"></a>触控问题</h2><p>苹果承认于2019年11月之2020年5月生产的iPhone 11 机型都存在LCD触控问题，用户受促前往苹果官网查询自己的手机序列号是否符合免费更换的条件！</p><a id="more"></a><p><strong>苹果官网查询链接：<a href="https://support.apple.com/en-my/iphone-11-display-module-replacement-program">点我</a></strong></p><h2 id="查询步骤"><a href="#查询步骤" class="headerlink" title="查询步骤"></a>查询步骤</h2><ol><li>打开 <strong>苹果官网查询链接：<a href="https://support.apple.com/en-my/iphone-11-display-module-replacement-program">点我</a></strong></li><li>在你的手机上，依次打开 Settings -&gt; General -&gt; About Phone -&gt; Serial Number ，长按复制你的 Serial Number</li><li>将复制的Serial Number 粘贴进入官网的查询页面里，然后点击Submit.</li><li>如果查询为该批次，然后你也发现你的手机有触控问题，可前往最近的 Apple 授权维修中心 进行维修</li></ol><p>此文章只供大家参考,本文所有内容都是从各大科技网站里优质摘下,原文链接将附上！<br>来源：<a href="https://9to5mac.com/2020/12/05/iphone-11-repair-program-display-module/">9to5mac</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;触控问题&quot;&gt;&lt;a href=&quot;#触控问题&quot; class=&quot;headerlink&quot; title=&quot;触控问题&quot;&gt;&lt;/a&gt;触控问题&lt;/h2&gt;&lt;p&gt;苹果承认于2019年11月之2020年5月生产的iPhone 11 机型都存在LCD触控问题，用户受促前往苹果官网查询自己的手机序列号是否符合免费更换的条件！&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="触控问题" scheme="https://www.appletuhao.tk/tags/%E8%A7%A6%E6%8E%A7%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="iPhone 11" scheme="https://www.appletuhao.tk/tags/iPhone-11/"/>
+    
+    <category term="异常" scheme="https://www.appletuhao.tk/tags/%E5%BC%82%E5%B8%B8/"/>
+    
+    <category term="故障" scheme="https://www.appletuhao.tk/tags/%E6%95%85%E9%9A%9C/"/>
+    
+  </entry>
+  
+</feed>
