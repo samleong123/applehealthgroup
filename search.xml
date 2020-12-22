@@ -303,4 +303,82 @@
         <tag>64GB</tag>
       </tags>
   </entry>
+  <entry>
+    <title>VoLTE 和 VoWiFi 的差别</title>
+    <url>/VoLTE-%E5%92%8C-VoWiFi-%E7%9A%84%E5%B7%AE%E5%88%AB/</url>
+    <content><![CDATA[<p>自2016年起，我国的运营商开始使用 VoLTE 技术. YTL 旗下的 Yes 4G 是全马第一家推出VoLTE 功能的运营商，他们于2016年6月30日正式推出此服务. 随后陆续更多的运营商也加入了这个行业，纷纷推出了VoLTE 服务，有者还推出了VoWiFi服务.<br><strong>重点来了，什么是VoLTE?为什么我的手机在连接到4G网络时显示 VoLTE？然而连接到WiFi的时候显示 WiFi Calling?</strong></p>
+<a id="more"></a>
+<h2 id="VoLTE"><a href="#VoLTE" class="headerlink" title="VoLTE"></a>VoLTE</h2><h3 id="VoLTE是什么？"><a href="#VoLTE是什么？" class="headerlink" title="VoLTE是什么？"></a>VoLTE是什么？</h3><p>VoLTE 全程为 <strong>Voice over Long-Term Evolution (VoLTE)</strong> , VoLTE 是基于<strong>IP多媒体子系统(IP Multimedia Subsystem，IMS)</strong> 运行的.简单来说,VoLTE 可以让语音同时承载到数据上，直接通过4G网络回传到基站，而不需要像以前一样，来电时回落至3G，若部分国家/地区/运营商已经关闭3G网络，来电时还会直接回落至2G，带给用户非常糟糕的体验.<br>而且,VoLTE能承载的语音和数据容量是旧版3G UMTS 的<strong>三倍</strong> , 是2G GSM 的<strong>6倍</strong>.这些都要归功于VoLTE的<strong>数据包标头(packet headers)**比未优化的VoIP / LTE的数据包标头</strong>小<strong>，因此它使用的</strong>带宽更少**. 部分手机会<strong>显示 HD / VoLTE 标志</strong>，代表VoLTE已被<strong>启动</strong>并且<strong>可以使用</strong>!</p>
+<h3 id="VoLTE-有什么好处？"><a href="#VoLTE-有什么好处？" class="headerlink" title="VoLTE 有什么好处？"></a>VoLTE 有什么好处？</h3><p>VoLTE 可让你<strong>来电时保持4G / 4G+ 网络</strong>，而且带来<strong>更清晰的音质</strong>和<strong>更短的响应时间</strong>.</p>
+<blockquote>
+<p><strong>更清晰的音质</strong>和<strong>更短的响应时间</strong> 需<strong>双方手机都激活</strong>并且<strong>正在使用VoLTE服务</strong>才可以看到效果！</p>
+</blockquote>
+<h3 id="如何开启并使用VoLTE功能？"><a href="#如何开启并使用VoLTE功能？" class="headerlink" title="如何开启并使用VoLTE功能？"></a>如何开启并使用VoLTE功能？</h3><h4 id="你需要满足以下条件："><a href="#你需要满足以下条件：" class="headerlink" title="你需要满足以下条件："></a>你需要满足以下条件：</h4><ul>
+<li>手机为最新固件</li>
+<li>运营商支持该机型和该技术<blockquote>
+<p>目前<strong>支持Vo-LTE的运营商</strong>有 <strong>Digi</strong> , <strong>U Mobile</strong> , <strong>Celcom</strong> , <strong>Maxis</strong> , <strong>Yes 4G</strong> , <strong>unifi mobile</strong></p>
+</blockquote>
+</li>
+<li>已在运营商开通VoLTE功能（基本我国运营商激活都无需收费)</li>
+<li>你处在支持VoLTE功能的覆盖范围内</li>
+</ul>
+<h4 id="开启步骤："><a href="#开启步骤：" class="headerlink" title="开启步骤："></a>开启步骤：</h4><ol>
+<li>前往 <strong>设置</strong><br><img src="https://i.imgur.com/CH74oz6.png" alt="Settings"></li>
+<li>点击 <strong>蜂窝网络</strong><br><img src="https://i.imgur.com/WleiEVw.png" alt="CellularData"></li>
+<li>点击 <strong>蜂窝数据选项</strong><br><img src="https://i.imgur.com/aB287bg.png" alt="MoreOption"></li>
+<li>点击 <strong>语音与数据</strong><br><img src="https://i.imgur.com/YaQsTbo.png" alt="Voice AND DATA"></li>
+<li>拖动<strong>VoLTE按钮</strong>为绿色<br><img src="https://i.imgur.com/SycMCme.png" alt="VoLTE"></li>
+</ol>
+<p><strong>这样就在手机上激活VoLTE 了！</strong></p>
+<h3 id="查看VoLTE是否被激活"><a href="#查看VoLTE是否被激活" class="headerlink" title="查看VoLTE是否被激活"></a>查看VoLTE是否被激活</h3><h4 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h4><ol>
+<li>前往 <strong>设置</strong><br><img src="https://i.imgur.com/CH74oz6.png" alt="Settings"></li>
+<li>点击 <strong>通用</strong><br><img src="https://i.imgur.com/HsmsVJY.png" alt="General"></li>
+<li>点击 <strong>关于本机</strong><br><img src="https://i.imgur.com/KBaeKI2.png" alt="AbtPhone"></li>
+<li>下滑找到 <strong>运营商</strong>,并且**点击运营商一栏<br><img src="https://i.imgur.com/lqYa2oU.png" alt="Carrier"></li>
+<li>若<strong>IMS 状态</strong>显示 <strong>语音与短信</strong> 就代表VoLTE可使用了，若没有出现，可能需要联系运营商做进一步处理！<br><img src="https://i.imgur.com/iJnZc92.png" alt="IMS"></li>
+</ol>
+<h2 id="VoWiFi-Wi-Fi-Calling"><a href="#VoWiFi-Wi-Fi-Calling" class="headerlink" title="VoWiFi (Wi-Fi Calling)"></a>VoWiFi (Wi-Fi Calling)</h2><h3 id="VoWiFi-Wi-Fi-Calling-是什么？"><a href="#VoWiFi-Wi-Fi-Calling-是什么？" class="headerlink" title="VoWiFi (Wi-Fi Calling) 是什么？"></a>VoWiFi (Wi-Fi Calling) 是什么？</h3><p>VoWiFi 全程为 <strong>Voice over Wireless LAN （VoWLAN / VoWiFi / WiFi Calling)</strong>. 他就是一个利用WiFi传输的VoIP技术. 同样的 , VoWiFi 也是基于<strong>IP多媒体子系统(IP Multimedia Subsystem，IMS)</strong> 运行的. 只要使用者<strong>连接上WiFi **， 即可</strong>通过WiFi 拨打电话/收发短信**.</p>
+<blockquote>
+<p>不过需要注意，请确保连接到的WiFi网络没有阻断<strong>IPSec VPN端口/流量</strong>，否则VoWiFi 很<strong>大可能不会工作</strong>.</p>
+</blockquote>
+<h3 id="VoWiFi-有什么好处？"><a href="#VoWiFi-有什么好处？" class="headerlink" title="VoWiFi 有什么好处？"></a>VoWiFi 有什么好处？</h3><p>VoWiFi 是为了解决无信号覆盖地区的技术，使用者只需连接到<strong>可访问互联网的WiFi</strong>，即可<strong>使用WiFi Calling</strong>. 换言之，只要你有<strong>WiFi连接</strong>，而且处在无服务的地区，比如地下室/国外，都可以使用VoWiFi 进行<strong>拨打电话/收发短信</strong>.<br>而且<strong>不需要任何应用程序</strong>,只需在<strong>手机设置打开设置激活</strong>就可以了!</p>
+<h3 id="如何开启并使用VoWiFi功能？"><a href="#如何开启并使用VoWiFi功能？" class="headerlink" title="如何开启并使用VoWiFi功能？"></a>如何开启并使用VoWiFi功能？</h3><h4 id="你需要满足以下条件：-1"><a href="#你需要满足以下条件：-1" class="headerlink" title="你需要满足以下条件："></a>你需要满足以下条件：</h4><ul>
+<li>手机为最新固件</li>
+<li>运营商支持该机型和该技术<blockquote>
+<p>目前<strong>支持Vo-WiFi的运营商</strong>有 <strong>Digi</strong> 和 <strong>U Mobile</strong></p>
+</blockquote>
+</li>
+<li>已在运营商开通VoWiFi功能（基本我国运营商激活都无需收费)</li>
+<li>你连接到可访问互联网的WiFi</li>
+</ul>
+<h4 id="开启步骤：-1"><a href="#开启步骤：-1" class="headerlink" title="开启步骤："></a>开启步骤：</h4><ol>
+<li>前往 <strong>设置</strong><br><img src="https://i.imgur.com/CH74oz6.png" alt="Settings"></li>
+<li>点击 <strong>蜂窝网络</strong><br><img src="https://i.imgur.com/WleiEVw.png" alt="CellularData"></li>
+<li>点击 <strong>Wi-Fi通话</strong><br><img src="https://i.imgur.com/6h9xTYT.png" alt="WiFICalling"></li>
+<li>勾选 <strong>在iPhone上用Wi-Fi通话</strong><br><img src="https://i.imgur.com/etaM0Bt.png" alt="TickWiFiCalling"></li>
+</ol>
+<p><strong>这样就在手机上激活VoWiFi 了！</strong></p>
+<h3 id="查看VoWiFi是否被激活"><a href="#查看VoWiFi是否被激活" class="headerlink" title="查看VoWiFi是否被激活"></a>查看VoWiFi是否被激活</h3><h4 id="教程-1"><a href="#教程-1" class="headerlink" title="教程"></a>教程</h4><ol>
+<li>前往 <strong>设置</strong><br><img src="https://i.imgur.com/CH74oz6.png" alt="Settings"></li>
+<li>点击 <strong>通用</strong><br><img src="https://i.imgur.com/HsmsVJY.png" alt="General"></li>
+<li>点击 <strong>关于本机</strong><br><img src="https://i.imgur.com/KBaeKI2.png" alt="AbtPhone"></li>
+<li>下滑找到 <strong>运营商</strong>,并且**点击运营商一栏<br><img src="https://i.imgur.com/lqYa2oU.png" alt="Carrier"></li>
+<li>若<strong>IMS 状态</strong>显示 <strong>语音与短信</strong> 就代表VoWiFi可使用了，若没有出现，可能需要联系运营商做进一步处理！<br><img src="https://i.imgur.com/iJnZc92.png" alt="IMS"></li>
+</ol>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>VoLTE 和 VoWiFi 都非常符合我们现代人的需求，小编这里建议若运营商支持，可以直接激活该功能使用，毕竟VoLTE 和 VoWiFi 这两项技术的确在马来西亚有很大的需求，尤其是VoWiFi ，在很多室内无服务的地区，只要连接上WiFi就可以拨打电话/收发短信,非常的方便！小编也希望越来越多运营商推出 VoWiFi功能！</p>
+<p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>
+]]></content>
+      <tags>
+        <tag>iOS</tag>
+        <tag>iPadOS</tag>
+        <tag>VoLTE</tag>
+        <tag>VoWiFi</tag>
+        <tag>Digi</tag>
+        <tag>Celcom</tag>
+        <tag>Unifi Mobile</tag>
+        <tag>Maxis</tag>
+        <tag>Yes 4G</tag>
+        <tag>U Mobile</tag>
+      </tags>
+  </entry>
 </search>
