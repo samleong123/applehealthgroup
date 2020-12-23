@@ -6,7 +6,7 @@
   <link href="https://www.appletuhao.tk/atom.xml" rel="self"/>
   
   <link href="https://www.appletuhao.tk/"/>
-  <updated>2020-12-22T13:20:38.263Z</updated>
+  <updated>2020-12-23T12:49:00.129Z</updated>
   <id>https://www.appletuhao.tk/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>屏蔽iOS / iPadOS 更新</title>
+    <link href="https://www.appletuhao.tk/%E5%B1%8F%E8%94%BDiOS-iPadOS-%E6%9B%B4%E6%96%B0/"/>
+    <id>https://www.appletuhao.tk/%E5%B1%8F%E8%94%BDiOS-iPadOS-%E6%9B%B4%E6%96%B0/</id>
+    <published>2020-12-23T12:19:29.000Z</published>
+    <updated>2020-12-23T12:49:00.129Z</updated>
+    
+    <content type="html"><![CDATA[<p>相信大多数人手上的旧机型iPhone 应该都不想升级最新的系统，毕竟升级了后可以明显地感受到延迟和耗电量增加. 因此，我们需要通过配置文件来屏蔽更新.<br>这里我们使用编辑手上的 iPhone 6s - iOS 12.4.1 作为演示.</p><a id="more"></a><p>还未安装屏蔽配置文件前，可以看到，点入软件升级是会提示升级iOS 14.3<br><img src="https://i.imgur.com/86R2giY.png" alt="Ios14.3"><br>好了，接下来开始教程！</p><h2 id="屏蔽iOS-iPadOS-更新"><a href="#屏蔽iOS-iPadOS-更新" class="headerlink" title="屏蔽iOS / iPadOS 更新"></a>屏蔽iOS / iPadOS 更新</h2><h3 id="请满足以下条件"><a href="#请满足以下条件" class="headerlink" title="请满足以下条件"></a>请满足以下条件</h3><ul><li>网络连接</li><li>可安装配置文件</li></ul><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><ol><li>请使用Safari浏览此网页，然后点击<a href="/BLOCKOTAIOSIPADOS.mobileconfig">屏蔽iOS / iPadOS 更新配置文件</a> 来下载配置文件.<br><img src="https://i.imgur.com/p67ltCm.png" alt="Allow"><br><img src="https://i.imgur.com/yAQYhiY.png" alt="Close"><blockquote><p>点击 Allow / 允许 下载该配置文件，接着点击 Close / 关闭</p></blockquote></li><li>依次打开 Settings/设置 -&gt; 已下载的描述文件 / Profile Downloaded -&gt; 点击右上角的 Install / 安装<br><img src="https://i.imgur.com/CH74oz6.png" alt="Settings"><blockquote><p>打开 Settings/设置<br><img src="https://i.imgur.com/dtuOMSj.png" alt="Profile"><br>打开 已下载的描述文件 / Profile Downloaded<br><img src="https://i.imgur.com/sbnlbJX.png" alt="Install"><br>点击右上角的 Install / 安装</p></blockquote></li><li>依次 输入密码 -&gt; 点击右上角 Done/完成<br><img src="https://i.imgur.com/S02c71i.png" alt="Passcode"><blockquote><p>输入密码 -&gt; 点击右上角 Done/完成</p></blockquote></li><li>点击右上角的 Install / 安装<br><img src="https://i.imgur.com/ovMFirM.png" alt="InstallRight"><blockquote><p>点击右上角的 Install / 安装</p></blockquote></li><li>再次点击 Install / 安装<br><img src="https://i.imgur.com/JoYFT2Y.png" alt="Installbottom"><blockquote><p>再次点击 Install / 安装</p></blockquote></li><li>接下来，他会要求重启手机，点击 Restart / 重启<br><img src="https://i.imgur.com/GHebLtg.png" alt="restart"><blockquote><p>点击 Restart / 重启</p></blockquote></li><li>重启后,依次打开 Settings/设置 -&gt; 通用 / General -&gt; 软件更新 / Software Update<br><img src="https://i.imgur.com/bcmFUCG.png" alt="IOS12.4.1"><blockquote><p>是不是发现没更新了呢？</p></blockquote></li></ol><p><strong>到了第7步，就代表成功了哦！</strong></p><p>至此，你的旧iOS机型/iPadOS机型就能停留在这个iOS版本了！除非手动去除此配置文件/使用iTunes/爱思助手等等之类的工具更新iOS设备/iPadOS设备,否则是可以永久屏蔽更新的！</p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a> 吧！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;相信大多数人手上的旧机型iPhone 应该都不想升级最新的系统，毕竟升级了后可以明显地感受到延迟和耗电量增加. 因此，我们需要通过配置文件来屏蔽更新.&lt;br&gt;这里我们使用编辑手上的 iPhone 6s - iOS 12.4.1 作为演示.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="iOS" scheme="https://www.appletuhao.tk/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="https://www.appletuhao.tk/tags/iPadOS/"/>
+    
+    <category term="屏蔽" scheme="https://www.appletuhao.tk/tags/%E5%B1%8F%E8%94%BD/"/>
+    
+    <category term="更新" scheme="https://www.appletuhao.tk/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>VoLTE 和 VoWiFi 的差别</title>
