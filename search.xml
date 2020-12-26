@@ -337,7 +337,7 @@
 <li>下滑找到 <strong>运营商</strong>,并且<strong>点击运营商一栏</strong><br><img src="https://i.appletuhao.tk/lqYa2oU.png" alt="运营商"></li>
 <li>若<strong>IMS 状态</strong> 显示 <strong>语音与短信</strong> 就代表VoLTE可使用了，若没有出现，可能需要联系运营商做进一步处理！<br><img src="https://i.appletuhao.tk/iJnZc92.png" alt="IMS"></li>
 </ol>
-<h2 id="VoWiFi-Wi-Fi-Calling"><a href="#VoWiFi-Wi-Fi-Calling" class="headerlink" title="VoWiFi (Wi-Fi Calling)"></a>VoWiFi (Wi-Fi Calling)</h2><h3 id="VoWiFi-Wi-Fi-Calling-是什么？"><a href="#VoWiFi-Wi-Fi-Calling-是什么？" class="headerlink" title="VoWiFi (Wi-Fi Calling) 是什么？"></a>VoWiFi (Wi-Fi Calling) 是什么？</h3><p>VoWiFi 全程为 <strong>Voice over Wireless LAN （VoWLAN / VoWiFi / WiFi Calling)</strong>. 他就是一个利用WiFi传输的VoIP技术. 同样的 , VoWiFi 也是基于<strong>IP多媒体子系统(IP Multimedia Subsystem，IMS)</strong> 运行的. 只要使用者<strong>连接上WiFi **， 即可</strong>通过WiFi 拨打电话/收发短信**.</p>
+<h2 id="VoWiFi-Wi-Fi-Calling"><a href="#VoWiFi-Wi-Fi-Calling" class="headerlink" title="VoWiFi (Wi-Fi Calling)"></a>VoWiFi (Wi-Fi Calling)</h2><h3 id="VoWiFi-Wi-Fi-Calling-是什么？"><a href="#VoWiFi-Wi-Fi-Calling-是什么？" class="headerlink" title="VoWiFi (Wi-Fi Calling) 是什么？"></a>VoWiFi (Wi-Fi Calling) 是什么？</h3><p>VoWiFi 全程为 <strong>Voice over Wireless LAN （VoWLAN / VoWiFi / WiFi Calling)</strong>. 他就是一个利用WiFi传输的VoIP技术. 同样的 , VoWiFi 也是基于<strong>IP多媒体子系统(IP Multimedia Subsystem，IMS)</strong> 运行的. 只要使用者<strong>连接上WiFi</strong>， 即可<strong>通过WiFi 拨打电话/收发短信</strong>.</p>
 <blockquote>
 <p>不过需要注意，请确保连接到的WiFi网络没有阻断<strong>IPSec VPN端口/流量</strong>，否则VoWiFi 很<strong>大可能不会工作</strong>.</p>
 </blockquote>
