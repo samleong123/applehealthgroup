@@ -6,7 +6,7 @@
   <link href="https://www.appletuhao.eu.org/atom.xml" rel="self"/>
   
   <link href="https://www.appletuhao.eu.org/"/>
-  <updated>2021-01-12T11:22:16.036Z</updated>
+  <updated>2021-01-15T07:16:06.049Z</updated>
   <id>https://www.appletuhao.eu.org/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何解决Facebook 无法点击See More 查看更多</title>
+    <link href="https://www.appletuhao.eu.org/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3Facebook-%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BBSee-More-%E6%9F%A5%E7%9C%8B%E6%9B%B4%E5%A4%9A/"/>
+    <id>https://www.appletuhao.eu.org/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3Facebook-%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BBSee-More-%E6%9F%A5%E7%9C%8B%E6%9B%B4%E5%A4%9A/</id>
+    <published>2021-01-15T07:08:38.000Z</published>
+    <updated>2021-01-15T07:16:06.049Z</updated>
+    
+    <content type="html"><![CDATA[<p>相信很多人最近在更新了最新的iOS 或 iPadOS 和最新的 Facebook 后，都会发现某些评论的 See More / 查看更多 点击后无反应，需要手动拷贝粘贴才可以看到完整评论.<br><img src="https://i.appletuhao.eu.org/A7jpD1x.png" alt="No response when tap &#39;See More&#39; on iOS or iPadOS Facebook App"><br>如今我们可以通过某些手段来解决这个Bug.</p><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ol><li>打开 Facebook , 点击 <code>Menu</code>.<br><img src="https://i.appletuhao.eu.org/4IIsJAc.png" alt="Menu on Facebook"></li><li>向下滑找到 <code>Settings &amp; Privacy</code> , 点击里面的 <code>Settings</code>.<br><img src="https://i.appletuhao.eu.org/5C32erJ.png" alt="Settings &amp; Privacy on Facebook"></li><li>进入选项后，下滑找到 <code>Media and Contacts</code> , 找到 <code>Browser</code> 并点击进去.<br><img src="https://i.appletuhao.eu.org/yrFKJCT.png" alt="Browser Settings on Facebook"></li><li>点击 <code>Clear Data</code>.<br><img src="https://i.appletuhao.eu.org/hx18Mb3.png" alt="Clear Browser Data on Facebook"></li><li>从后台直接关闭 Facebook 并且再次打开，理论上现在可以点击 See More / 查看更多了！</li></ol><p>希望可以帮助大家解决这个问题哟！</p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a></strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;相信很多人最近在更新了最新的iOS 或 iPadOS 和最新的 Facebook 后，都会发现某些评论的 See More / 查看更多 点击后无反应，需要手动拷贝粘贴才可以看到完整评论.&lt;br&gt;&lt;img src=&quot;https://i.appletuhao.eu.org/A</summary>
+      
+    
+    
+    
+    
+    <category term="iOS" scheme="https://www.appletuhao.eu.org/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="https://www.appletuhao.eu.org/tags/iPadOS/"/>
+    
+    <category term="Facebook" scheme="https://www.appletuhao.eu.org/tags/Facebook/"/>
+    
+    <category term="Bug" scheme="https://www.appletuhao.eu.org/tags/Bug/"/>
+    
+    <category term="See More" scheme="https://www.appletuhao.eu.org/tags/See-More/"/>
+    
+  </entry>
   
   <entry>
     <title>马来西亚3G网络将在2022年全面停止使用</title>
@@ -208,9 +238,9 @@
     <link href="https://www.appletuhao.eu.org/iPhone-12-Pro-3D%E6%89%AB%E6%8F%8F/"/>
     <id>https://www.appletuhao.eu.org/iPhone-12-Pro-3D%E6%89%AB%E6%8F%8F/</id>
     <published>2020-12-07T08:57:29.000Z</published>
-    <updated>2021-01-12T11:23:05.566Z</updated>
+    <updated>2021-01-15T07:15:44.039Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="3D-Scanner-App"><a href="#3D-Scanner-App" class="headerlink" title="3D Scanner App"></a>3D Scanner App</h2><p>众所周知，iPhone 12 Pro 系列首次搭载了LIDAR 激光扫描仪，是继苹果用在iPad Pro 后第二次在iOS设备上搭载LIDAR 激光扫描仪.<br>这个扫描仪能做什么呢?</p><a id="more"></a><p>LIDAR 激光扫描仪的到来 AR 领域带来了新的可能性，在摄影领域，它也能够透过准确的深度感测，呈现更真实的散景效果。而<code>3D Scanner App</code>则同样利用了该技术，为前述的机种带来 3D 扫描的功能。</p><h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><ul><li>顾名思义，这款 App 能够让你扫描各种静态物体并建立 3D 模型，小从一个杯子、大置一个房间都没有问题，且扫描没有任何的次数限制。扫描结果还能输出成各种格式，或是用于「讯息」App 来和其他人分享。</li></ul><h2 id="专业应用"><a href="#专业应用" class="headerlink" title="专业应用"></a>专业应用</h2><p>如果你对扫描的结果很满意，打算对它有进一步的应用，<code>3D Scanner App</code> 也支援输出至 <code>Blender、3ds Max、SketchUp </code> 等 3D 电脑绘图软体。</p><h2 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h2><p>除了欣赏你的扫描结果之外，App 也提供了虚拟量尺，能够让你轻松获悉物品的长、宽、深度资讯。</p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://i.appletuhao.eu.org/8mzhWQk.jpg" alt="截图"><br><img src="https://i.appletuhao.eu.org/ggBjztQ.jpg" alt="截图"><br><img src="https://i.appletuhao.eu.org/YD9oO3R.jpg" alt="截图"><br><img src="https://i.appletuhao.eu.org/5Ra72nB.jpg" alt="截图"></p><p>应用名称：3D Scanner App<br>应用类别：工具程式<br>下载链接： <a href="https://apps.apple.com/app/id1419913995">App Store</a></p><p>此文章只供大家参考,本文所有内容都是从各大科技网站里优质摘下,原文链接将附上！<br>来源：<a href="https://youtu.be/YizMalWigkI">Youtube</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="3D-Scanner-App"><a href="#3D-Scanner-App" class="headerlink" title="3D Scanner App"></a>3D Scanner App</h2><p>众所周知，iPhone 12 Pro 系列首次搭载了LIDAR 激光扫描仪，是继苹果用在iPad Pro 后第二次在iOS设备上搭载LIDAR 激光扫描仪.<br>这个扫描仪能做什么呢?</p><a id="more"></a><p>LIDAR 激光扫描仪的到来 AR 领域带来了新的可能性，在摄影领域，它也能够透过准确的深度感测，呈现更真实的散景效果。而<code>3D Scanner App</code>则同样利用了该技术，为前述的机种带来 3D 扫描的功能。</p><h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><ul><li>顾名思义，这款 App 能够让你扫描各种静态物体并建立 3D 模型，小从一个杯子、大置一个房间都没有问题，且扫描没有任何的次数限制。扫描结果还能输出成各种格式，或是用于「讯息」App 来和其他人分享。</li></ul><h2 id="专业应用"><a href="#专业应用" class="headerlink" title="专业应用"></a>专业应用</h2><p>如果你对扫描的结果很满意，打算对它有进一步的应用，<code>3D Scanner App</code> 也支援输出至 <code>Blender、3ds Max、SketchUp </code> 等 3D 电脑绘图软体。</p><h2 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h2><p>除了欣赏你的扫描结果之外，App 也提供了虚拟量尺，能够让你轻松获悉物品的长、宽、深度资讯。</p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://i.appletuhao.eu.org/8mzhWQk.jpg" alt="截图"><br><img src="https://i.appletuhao.eu.org/ggBjztQ.jpg" alt="截图"><br><img src="https://i.appletuhao.eu.org/YD9oO3R.jpg" alt="截图"><br><img src="https://i.appletuhao.eu.org/5Ra72nB.jpg" alt="截图"></p><p>应用名称：3D Scanner App<br>应用类别：工具程式<br>下载链接： <a href="https://apps.apple.com/app/id1419913995">App Store</a></p><p>此文章只供大家参考,本文所有内容都是从各大科技网站里优质摘下,原文链接将附上！<br>来源：<a href="https://youtu.be/YizMalWigkI">Youtube</a></p><p><strong>加入我们的 <a href="https://www.facebook.com/groups/appletuhao/">Facebook Group</a> 以获取最新的消息哟！</strong><br><strong>一起加入我们的 <a href="https://t.me/joinchat/NaGsZxQSKshrapMPqe2Q4Q">Telegram 聊天互动群</a></strong></p>]]></content>
     
     
     <summary type="html">&lt;h2 id=&quot;3D-Scanner-App&quot;&gt;&lt;a href=&quot;#3D-Scanner-App&quot; class=&quot;headerlink&quot; title=&quot;3D Scanner App&quot;&gt;&lt;/a&gt;3D Scanner App&lt;/h2&gt;&lt;p&gt;众所周知，iPhone 12 Pro 系列首次搭载了LIDAR 激光扫描仪，是继苹果用在iPad Pro 后第二次在iOS设备上搭载LIDAR 激光扫描仪.&lt;br&gt;这个扫描仪能做什么呢?&lt;/p&gt;</summary>
